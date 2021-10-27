@@ -34,12 +34,14 @@ body{
     font-size: xx-large;
 }
 
+
 /* Attraction section */
 h4{
     font-family: 'Nosifer', cursive;
 }
-#attraction{
-    font-family: 'Henny Penny', cursive;
+.attraction{
+    margin-left: 20%;
+    margin-right: 20%;
 }
 .attraction-text{
     background-color: #db7a34;
