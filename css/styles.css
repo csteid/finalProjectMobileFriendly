@@ -170,5 +170,9 @@ textarea{
 }
 /* Footer */
 .fa{
-   color:#db7a34
+   color:#db7a34;
+}   
+.foot a:hover{
+    text-decoration: none;
 }
+
